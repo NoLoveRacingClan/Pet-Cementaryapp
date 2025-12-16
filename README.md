@@ -25,7 +25,7 @@ then Finally Working on collisions, dying, restarting game & Scoring !
 
 ***Contribution*** 
 
-Was Coder and programmer for group 
+I was Coder and programmer for group 
 
 ***Photos of Game***
 
