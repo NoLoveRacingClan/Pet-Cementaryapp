@@ -7,7 +7,7 @@ Coder for The Group Young & The Reckless
 
 ***Project Overview***
 
-The Goal was to cater to our User Guides ( personal likes, Preferences, & Hobbies in one game and that being 
+The Goal was to cater to our User Guides ( personal likes, Preferences, & Hobbies in one game and that being )
 
 ***Tools/Skills***
 
